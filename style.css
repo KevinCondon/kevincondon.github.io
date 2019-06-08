@@ -9,11 +9,9 @@
     	background-color: #D0E4F5;
 	background-image: url("https://raw.githubusercontent.com/KevinCondon/kevincondon.github.io/master/PrimeAcedemyLogo.png");
 	background-repeat: no-repeat;
-	background-attachment: local;
+	background-attachment local;
 	background-position: 100% 0%;
 	background-size: 15%;
-
-	text-align: left;
 }
 
 #content-professional {
